@@ -1,5 +1,5 @@
 # AI/DA
-Projektin tavoitteena oli toteuttaa autokauppaketjulle koneoppimismalli, jota voi hyödyntää käytettyjen autojen hinnan ennustamisessa auton ominaisuuksien perusteella. Toteutus tapahtui Python-ohjelmointikielellä, sekä muun muassa Pythonin datan käsittely-, matikka-, ja koneoppimiskirjastoilla.
+Projektin tavoitteena oli toteuttaa kuvitteelliselle autokauppaketjulle, sovellus jota voi hyödyntää käytettyjen autojen hinnan ennustamisessa auton ominaisuuksien perusteella. Toteutus tapahtui Python-ohjelmointikielellä, sekä muun muassa Pythonin datan käsittely-, matikka-, ja koneoppimiskirjastoilla.
 
 Liiketoimintaan sekä datasettiin perehtyminen olivat projektin ensiaskeleet. Projektin datasetti koostui kolmesta miljoonasta autosta Yhdysvaltojen markkinoilta. Data tuli muotoilla niin, että sitä pystyi käyttää mallintamisessa. Datan suuren koon vuoksi esikäsittely vei merkittävästi aikaa.
 
